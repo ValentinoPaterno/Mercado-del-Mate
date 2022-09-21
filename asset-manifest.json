@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ValentinoPaterno/Mercado-del-Mate.git/static/css/main.af6a30fc.css",
+    "main.js": "/ValentinoPaterno/Mercado-del-Mate.git/static/js/main.72fce7ce.js",
+    "static/js/787.b6b8e5ca.chunk.js": "/ValentinoPaterno/Mercado-del-Mate.git/static/js/787.b6b8e5ca.chunk.js",
+    "index.html": "/ValentinoPaterno/Mercado-del-Mate.git/index.html",
+    "main.af6a30fc.css.map": "/ValentinoPaterno/Mercado-del-Mate.git/static/css/main.af6a30fc.css.map",
+    "main.72fce7ce.js.map": "/ValentinoPaterno/Mercado-del-Mate.git/static/js/main.72fce7ce.js.map",
+    "787.b6b8e5ca.chunk.js.map": "/ValentinoPaterno/Mercado-del-Mate.git/static/js/787.b6b8e5ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6a30fc.css",
+    "static/js/main.72fce7ce.js"
+  ]
+}
